@@ -10,3 +10,10 @@ Syntax files for [REDCODE][], initially based on [VimScript#1705][1705].
 ### With Pathogen
 
     git clone https://github.com/bfontaine/redcode.vim.git ~/.vim/bundle/redcode.vim
+
+
+### With Vundle/Neobundle
+
+Add it in your `~/.vimrc` like any other plugin:
+
+    Plugin 'bfontaine/redcode.vim'
